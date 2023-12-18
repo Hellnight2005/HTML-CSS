@@ -1,0 +1,13 @@
+.red{    /* HER WE GIVE COLOR BY CLASS(.)*/
+    color: red;
+}
+.BG-YELLOW{
+    background-color: yellow;
+}
+.green{
+    color: yellow;
+    background-color:red ;
+}
+#seconddiv{/* HER WE GIVE COLOR BY ID(#) */
+    background-color: aqua;
+}
